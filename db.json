@@ -1,0 +1,16 @@
+{
+"burgers":[
+    {
+        "id":1,
+        "name":"kfc",
+        "web":"www.kfc.com"
+    },
+    {
+        "id":2,
+        "name":"mcdonnald",
+        "web":"www.mcdonnald.com"
+    }
+]
+
+
+}
